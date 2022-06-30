@@ -2,7 +2,7 @@
 
 <switch>
 <foreignObject>
-<iframe width="auto" height="auto" src="./pytest-cov/index.html"/>
+<iframe width="auto" height="auto" src="https://htmlpreview.github.io/?https://github.com/sql-sith/test-markdown/blob/main/pytest-cov/index.html"/>
 </foreignObject>
 
 <text x="20" y="20">Your SVG viewer cannot display html.</text>
