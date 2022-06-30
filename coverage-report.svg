@@ -2,7 +2,7 @@
 
 <switch>
 <foreignObject>
-<iframe width="auto" height="auto" src="./pycov-test/index.html"/>
+<iframe width="auto" height="auto" src="./pytest-cov/index.html"/>
 </foreignObject>
 
 <text x="20" y="20">Your SVG viewer cannot display html.</text>
